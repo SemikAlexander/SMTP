@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\MailClient\MailClient\bin\Debug\MailClient.exe.config
+C:\Users\Alex\source\repos\MailClient\MailClient\bin\Debug\MailClient.exe
+C:\Users\Alex\source\repos\MailClient\MailClient\bin\Debug\MailClient.pdb
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.Settings.resources
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.Properties.Resources.resources
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.exe
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.pdb
+C:\Users\Alex\source\repos\MailClient\MailClient\bin\Debug\MailKit.xml
+C:\Users\Alex\source\repos\MailClient\MailClient\bin\Debug\MimeKit.xml
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.csproj.CopyComplete
+C:\Users\Alex\source\repos\MailClient\MailClient\obj\Debug\MailClient.SendMessage.resources
